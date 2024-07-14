@@ -9,3 +9,9 @@ AUTHOR : VISHNUPRIYA
 3.Last seen code 
  
 4.Attachments (Image, audio , video )code 
+
+5.Last seen changes 
+
+6.Adding audio calls
+
+7.Adding video calls 
